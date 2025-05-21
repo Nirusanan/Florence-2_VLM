@@ -7,7 +7,7 @@ The tasks Florence-2 could perform:
 4. OCR
 5. VQA - fine tuned model for specific tasks
 
-## Fine-tuned model for Visual Question Answering
+## Fine-tuned model (microsoft/Florence-2-base-ft) for Visual Question Answering
 Model: [nirusanan/Florence-2_FT_VQA](https://huggingface.co/nirusanan/Florence-2_FT_VQA)
 
 ## Florence-2 Architecture
